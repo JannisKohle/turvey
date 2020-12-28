@@ -14,7 +14,8 @@ be one of these different types:
 1. Make sure you have installed Python 3 on your computer
 2. Clone this Repository and cd into it
 3. Execute the setup shell script for your os
-4. Now you should be good to go if no errors have occured running the setup script
+4. Add ~/bin to your $PATH variable
+5. Now you should be good to go if no errors have occured running the setup script
 
 ## Usage
 
