@@ -7,7 +7,7 @@ A survey can contain multiple questions and the questions in surveys can
 be one of these different types:
 - Right or Wrong
 - Multiple Choice
-- A number (there can be limits)
+- A number (there can be a minimum and maximum)
 
 ## Installation
 
