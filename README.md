@@ -2,7 +2,8 @@
 
 Turvey is a Terminal User Interface with which you can create and take part
 in surveys that are stored in the Cloud. The Interface is written in Python,
-the server in Node.js and as a database I'm using MongoDB.
+the server in Node.js and as a database I'm just using some json files
+because I'm lazy.
 A survey can contain multiple questions and the questions in surveys can
 be one of these different types:
 - Right or Wrong
